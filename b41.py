@@ -1,2 +1,2 @@
-n=raw_input("Enter the string:")
+n=raw_input("enter the string:")
 print(n*3)

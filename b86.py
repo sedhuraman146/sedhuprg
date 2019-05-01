@@ -10,5 +10,5 @@ return True
 if __name__ == '__main__': 
     print(isogram("Machine"))                              
     print(isogram("isogram"))                          
-    print(isogram("GeeksforGeeks"))                      
+    print(isogram("list"))                      
     print(isogram("Alphabet "))      
